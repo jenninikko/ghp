@@ -1,2 +1,3 @@
-# ghp :shit:
+# ghp 
+
 Simple repository to test out GitHub Pages.
